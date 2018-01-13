@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago
+END
+DefaultArchipelagoEventBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/DefaultArchipelagoEventBus.java
+END
+ArchipelagoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoUtils.java
+END
+ArchipelagoMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoMyxComponent.java
+END
+IArchipelagoEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEventListener.java
+END
+IArchipelagoTreeContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeContextMenuFiller.java
+END
+AbstractArchipelagoTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/AbstractArchipelagoTreePlugin.java
+END
+IArchipelagoEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEditorPane.java
+END
+IArchipelagoLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoLabelProvider.java
+END
+IArchipelagoEventBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEventBus.java
+END
+IArchipelagoTreeDoubleClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeDoubleClickHandler.java
+END
+ArchipelagoOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoOutlinePage.java
+END
+ArchipelagoConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoConstants.java
+END
+ObjRefTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ObjRefTransfer.java
+END
+IArchipelagoTreeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeContentProvider.java
+END
+FolderNodeTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/FolderNodeTreePlugin.java
+END
+FolderNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/FolderNode.java
+END
+RootTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/RootTreePlugin.java
+END
+ArchipelagoServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoServices.java
+END
+TreeNodeDataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/TreeNodeDataCache.java
+END
+ArchipelagoEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoEditor.java
+END
+IArchipelagoEditorFocuser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEditorFocuser.java
+END
+IArchipelagoTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreePlugin.java
+END
+RootContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/RootContentProvider.java
+END
+IArchipelagoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEvent.java
+END
+IArchipelagoTreeNodeDataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeNodeDataCache.java
+END
+IXArchEventHandlerLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/IXArchEventHandlerLogic.java
+END
+ArchipelagoDataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoDataCache.java
+END
+FolderNodeLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/FolderNodeLabelProvider.java
+END
+RootLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/RootLabelProvider.java
+END

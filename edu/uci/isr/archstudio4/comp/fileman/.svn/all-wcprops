@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman
+END
+IFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman/IFileManager.java
+END
+FileManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman/FileManagerView.java
+END
+CantOpenFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman/CantOpenFileException.java
+END
+IFileManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman/IFileManagerListener.java
+END
+NewFileWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman/NewFileWizard.java
+END
+FileManagerMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/fileman/FileManagerMyxComponent.java
+END

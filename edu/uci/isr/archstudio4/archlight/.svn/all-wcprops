@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight
+END
+ArchlightTestError.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/ArchlightTestError.java
+END
+ArchlightElementIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/ArchlightElementIdentifier.java
+END
+ArchlightTestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/ArchlightTestResult.java
+END
+ArchlightTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/ArchlightTest.java
+END
+ArchlightNotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/ArchlightNotice.java
+END
+IArchlightTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/IArchlightTool.java
+END
+ArchlightIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/archlight/ArchlightIssue.java
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation
+END
+BPEqualNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPEqualNode.java
+END
+SimpleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/SimpleNode.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/TokenMgrError.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/SimpleCharStream.java
+END
+IBooleanNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/IBooleanNotation.java
+END
+BPOrNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPOrNode.java
+END
+BPGreaterEqualNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPGreaterEqualNode.java
+END
+BPInSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPInSetNode.java
+END
+BPInRangeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPInRangeNode.java
+END
+BooleanGuardParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParserTokenManager.java
+END
+IBooleanGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/IBooleanGuard.java
+END
+BooleanGuardParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParserConstants.java
+END
+BooleanNotationMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BooleanNotationMyxComponent.java
+END
+BooleanGuardParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParser.java
+END
+BPStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPStart.java
+END
+BPNotEqualNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPNotEqualNode.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/Token.java
+END
+BPGreaterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPGreaterNode.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/Node.java
+END
+BPLessEqualNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPLessEqualNode.java
+END
+BPNotNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPNotNode.java
+END
+JJTBooleanGuardParserState.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/JJTBooleanGuardParserState.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/ParseException.java
+END
+BooleanGuardConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardConverter.java
+END
+BPAndNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPAndNode.java
+END
+BooleanGuardParserTreeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParserTreeConstants.java
+END
+BPUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPUtilities.java
+END
+BPLessNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/booleannotation/BPLessNode.java
+END

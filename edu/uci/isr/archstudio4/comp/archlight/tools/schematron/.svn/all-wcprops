@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron
+END
+SchematronTestResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestResultParser.java
+END
+SchematronConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronConstants.java
+END
+SchematronPreferencePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronPreferencePanel.java
+END
+SchematronTestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestException.java
+END
+SchematronTestFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestFile.java
+END
+SchematronMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronMyxComponent.java
+END
+SchematronPrefsMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronPrefsMyxComponent.java
+END
+SchematronUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronUtils.java
+END
+SchematronInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronInitializationException.java
+END
+SchematronTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTester.java
+END
+SchematronTestFileParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestFileParseException.java
+END
+SchematronTestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestManager.java
+END

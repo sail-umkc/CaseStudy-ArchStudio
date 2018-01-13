@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight
+END
+FolderNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/FolderNode.java
+END
+ArchlightConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightConstants.java
+END
+ArchlightOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightOutlinePage.java
+END
+ArchlightMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightMyxComponent.java
+END
+ArchlightUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightUtils.java
+END
+ArchlightToolAggregatorMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightToolAggregatorMyxComponent.java
+END
+ArchlightDocTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightDocTest.java
+END
+ArchlightEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/ArchlightEditor.java
+END
+DoubleClickAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archlight/DoubleClickAction.java
+END

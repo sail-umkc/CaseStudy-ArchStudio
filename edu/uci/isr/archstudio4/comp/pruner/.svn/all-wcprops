@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner
+END
+MissingElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/MissingElementException.java
+END
+IPruner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/IPruner.java
+END
+InvalidURIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/InvalidURIException.java
+END
+InvalidElementIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/InvalidElementIDException.java
+END
+MissingAttributeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/MissingAttributeException.java
+END
+PrunerMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/PrunerMyxComponent.java
+END
+BrokenLinkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/BrokenLinkException.java
+END
+PrunerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/pruner/PrunerImpl.java
+END

@@ -1,0 +1,4 @@
+xadl2-structure.xml
+xadl2-types.xml
+xadl2-styles-c2.xml
+xadl2-fw-myx.xml

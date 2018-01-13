@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/variants
+END
+VariantsEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/variants/VariantsEventListener.java
+END
+VariantsTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/variants/VariantsTreePlugin.java
+END
+AddVariantLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/variants/AddVariantLogic.java
+END
+EditVariantsLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/variants/EditVariantsLogic.java
+END
+PromoteToVariantLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/variants/PromoteToVariantLogic.java
+END

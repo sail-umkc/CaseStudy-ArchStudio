@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/graphlayout/graphviz
+END
+AbstractGraphvizLayoutEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/graphlayout/graphviz/AbstractGraphvizLayoutEngine.java
+END
+DotLayoutEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/graphlayout/graphviz/DotLayoutEngine.java
+END

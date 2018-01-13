@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui
+END
+GraphLayoutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/GraphLayoutDialog.java
+END
+DotPanelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/DotPanelProvider.java
+END
+NeatoPanelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/NeatoPanelProvider.java
+END
+DataValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/DataValidationException.java
+END
+IGraphLayoutParameterPanelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/IGraphLayoutParameterPanelProvider.java
+END
+OrientInterfacesParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/OrientInterfacesParameterPanel.java
+END
+SizeAndScaleParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/SizeAndScaleParameterPanel.java
+END
+IGraphLayoutParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/IGraphLayoutParameterPanel.java
+END
+GeneralOptionsParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/GeneralOptionsParameterPanel.java
+END
+DotSpacingParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/gui/DotSpacingParameterPanel.java
+END

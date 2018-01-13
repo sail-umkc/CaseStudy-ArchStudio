@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors
+END
+AbstractArchstudioEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/AbstractArchstudioEditor.java
+END
+AbstractArchstudioEditorMyxComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/AbstractArchstudioEditorMyxComponent.java
+END
+EditorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/EditorConstants.java
+END
+XadlRootElementContentDescriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/XadlRootElementContentDescriber.java
+END
+AbstractArchstudioOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/AbstractArchstudioOutlinePage.java
+END
+IEditorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/IEditorManager.java
+END
+FocusEditorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/FocusEditorListener.java
+END
+XadlEditorMatchingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/editors/XadlEditorMatchingStrategy.java
+END

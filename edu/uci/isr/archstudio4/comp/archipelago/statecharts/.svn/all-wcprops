@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts
+END
+StatechartsHintSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsHintSupport.java
+END
+StatechartsNewStatechartContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsNewStatechartContextMenuFiller.java
+END
+StatechartsEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEvents.java
+END
+StatechartsTreeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTreeContentProvider.java
+END
+StatechartsXArchEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsXArchEventHandler.java
+END
+StatechartsEditDescriptionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditDescriptionLogic.java
+END
+StatechartsEditDescriptionCellModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditDescriptionCellModifier.java
+END
+StatechartsTransitionEndpointLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTransitionEndpointLogic.java
+END
+StatechartsTreeLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTreeLabelProvider.java
+END
+StatechartsRemoveLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsRemoveLogic.java
+END
+StatechartsDoubleClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsDoubleClickHandler.java
+END
+StatechartsTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTreePlugin.java
+END
+StatechartsFileManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsFileManagerListener.java
+END
+StatechartsNewElementLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsNewElementLogic.java
+END
+StatechartsEditDescriptionContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditDescriptionContextMenuFiller.java
+END
+StatechartsEditorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditorSupport.java
+END
+StatechartsXArchEventHandlerLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsXArchEventHandlerLogic.java
+END
+StatechartsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsMapper.java
+END
+StatechartsRemoveContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsRemoveContextMenuFiller.java
+END

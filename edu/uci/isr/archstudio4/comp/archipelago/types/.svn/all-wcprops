@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types
+END
+StructureDoubleClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureDoubleClickHandler.java
+END
+TypesTreeLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreeLabelProvider.java
+END
+ArchipelagoTypesConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/ArchipelagoTypesConstants.java
+END
+TypesEditorFocuser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditorFocuser.java
+END
+TypesTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreePlugin.java
+END
+StructureEditorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditorSupport.java
+END
+StructureTypeDropLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureTypeDropLogic.java
+END
+TypesFileManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesFileManagerListener.java
+END
+StructureRemoveContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureRemoveContextMenuFiller.java
+END
+TypesEditDescriptionContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDescriptionContextMenuFiller.java
+END
+TypesAssignStructureLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesAssignStructureLogic.java
+END
+TypesXArchEventHandlerLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesXArchEventHandlerLogic.java
+END
+StructureNewInterfaceLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureNewInterfaceLogic.java
+END
+TypesMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesMapper.java
+END
+TypesCreateSIMLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesCreateSIMLogic.java
+END
+StructureHintSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureHintSupport.java
+END
+StructureEditColorLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditColorLogic.java
+END
+TypesNewTypeSetContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesNewTypeSetContextMenuFiller.java
+END
+StructureAssignTypeLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureAssignTypeLogic.java
+END
+StructureEditDirectionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDirectionLogic.java
+END
+StructureXArchEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureXArchEventHandler.java
+END
+StructureTreeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureTreeContentProvider.java
+END
+TypesRemoveDeadSIMLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveDeadSIMLogic.java
+END
+StructureEditDescriptionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDescriptionLogic.java
+END
+TypesStructureDropLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesStructureDropLogic.java
+END
+TypesEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEvents.java
+END
+StructureTreeLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureTreeLabelProvider.java
+END
+TypesEditDescriptionCellModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDescriptionCellModifier.java
+END
+StructureEditorFocuser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditorFocuser.java
+END
+StructureTreePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureTreePlugin.java
+END
+TypesRemoveLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveLogic.java
+END
+StructureFileManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureFileManagerListener.java
+END
+StructureNewElementLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureNewElementLogic.java
+END
+StructureEditDescriptionContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDescriptionContextMenuFiller.java
+END
+TypesDoubleClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesDoubleClickHandler.java
+END
+StructureXArchEventHandlerLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureXArchEventHandlerLogic.java
+END
+StructureMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureMapper.java
+END
+TypesEditorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditorSupport.java
+END
+TypesNewTypeContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesNewTypeContextMenuFiller.java
+END
+TypesTreeDragSourceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreeDragSourceListener.java
+END
+TypesTypeDropLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesTypeDropLogic.java
+END
+TypesRemoveContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveContextMenuFiller.java
+END
+StructureInterfaceLocationsLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureInterfaceLocationsLogic.java
+END
+TypesNewSignatureLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesNewSignatureLogic.java
+END
+StructureNewStructureContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureNewStructureContextMenuFiller.java
+END
+TypesHintSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesHintSupport.java
+END
+StructureEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEvents.java
+END
+TypesEditColorLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditColorLogic.java
+END
+TypesRemoveTypeSetContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveTypeSetContextMenuFiller.java
+END
+StructureEditDescriptionCellModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDescriptionCellModifier.java
+END
+TypesEditDirectionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDirectionLogic.java
+END
+TypesTreeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreeContentProvider.java
+END
+TypesXArchEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesXArchEventHandler.java
+END
+StructureRemoveLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureRemoveLogic.java
+END
+TypesEditDescriptionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDescriptionLogic.java
+END
+StructureLinkEndpointLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureLinkEndpointLogic.java
+END
+StructureMapSignatureLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureMapSignatureLogic.java
+END
+StructureGraphLayoutLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/types/StructureGraphLayoutLogic.java
+END

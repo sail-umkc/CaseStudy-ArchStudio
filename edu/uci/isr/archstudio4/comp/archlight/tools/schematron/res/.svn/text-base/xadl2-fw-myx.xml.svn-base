@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+
+<schema ns="http://www.isr.uci.edu/schematron/xadl2-fw-myx.xml"
+        xmlns="http://www.ascc.net/xml/schematron"        
+	fpi="+//IDN isr.uci.edu/SGML Schema//EN">
+
+  <title>xADL 2.0 C2 Style Tests Schema</title>
+  
+  <ns uri="http://www.w3.org/1999/xlink" prefix="xlink"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/instance.xsd" prefix="instance"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/types.xsd" prefix="types"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/implementation.xsd" prefix="implementation"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/lookupimplementation.xsd" prefix="lookupimplementation"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/javaimplementation.xsd" prefix="javaimplementation"/>
+ 
+  <!-- Component Types -->
+  
+  <pattern id="test.80c3148f.1028548ab08.860591990d819f77.0.3" 
+   name="xADL 2.0/Frameworks/Myx/Types/Component Types/Signatures/Valid Lookup Implementation"
+   description="Checks for a valid LookupImplementation on Component Type Signatures.">
+    <rule context="instance:xArch/types:archTypes/types:componentType/types:signature">
+      <assert test="implementation:implementation">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Component Type Signature |*|
+        id1=<value-of select="../@types:id"/> |*|
+        iddesc1=Component Type |*|
+        text=Myx: Component Type Signature missing LookupImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Component Type Signature missing LookupImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="implementation:implementation/lookupimplementation:name">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Component Type Signature |*|
+        id1=<value-of select="../@types:id"/> |*|
+        iddesc1=Component Type |*|
+        text=Myx: Component Type Signature missing LookupImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Component Type Signature missing LookupImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="normalize-space(implementation:implementation/lookupimplementation:name) != ''">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Component Type Signature |*|
+        id1=<value-of select="../@types:id"/> |*|
+        iddesc1=Component Type |*|
+        text=Myx: Component Type Signature LookupImplementation missing Name. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Component Type Signature LookupImplementation missing Name. (<value-of select="@types:id"/>).
+      </assert>
+    </rule>
+  </pattern>
+  
+  <!-- Note: this does not correctly handle subarchitectures, I think -->
+  <pattern id="test.80c3148f.1028548ab08.860591990d819f77.0.4-5"
+   name="xADL 2.0/Frameworks/Myx/Types/Component Types/Valid Java Implementation"
+   description="Checks for a valid JavaImplementation on Component Types.">
+    <rule context="instance:xArch/types:archTypes/types:componentType">
+      <assert test="implementation:implementation">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Component Type missing JavaImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Component Type missing JavaImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="implementation:implementation/javaimplementation:mainClass">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Component Type missing JavaImplementation main class. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Component Type missing JavaImplementation main class. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="normalize-space(implementation:implementation/javaimplementation:mainClass) != ''">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Component Type missing JavaImplementation main class value. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Component Type missing JavaImplementation main class value. (<value-of select="@types:id"/>).
+      </assert>
+    </rule>
+  </pattern>
+  
+  <!-- Connector Type -->
+  
+  <pattern id="test.80c3148f.1028548ab08.860591990d819f77.0.4"
+   name="xADL 2.0/Frameworks/Myx/Types/Connector Types/Signatures/Valid Lookup Implementation"
+   description="Checks for a valid LookupImplementation on Connector Type Signatures.">
+    <rule context="instance:xArch/types:archTypes/types:connectorType/types:signature">
+      <assert test="implementation:implementation">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Connector Type Signature |*|
+        id1=<value-of select="../@types:id"/> |*|
+        iddesc1=Connector Type |*|
+        text=Myx: Connector Type Signature missing LookupImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Connector Type Signature missing LookupImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="implementation:implementation/lookupimplementation:name">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Connector Type Signature |*|
+        id1=<value-of select="../@types:id"/> |*|
+        iddesc1=Connector Type |*|
+        text=Myx: Connector Type Signature missing LookupImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Connector Type Signature missing LookupImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="normalize-space(implementation:implementation/lookupimplementation:name) != ''">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Connector Type Signature |*|
+        id1=<value-of select="../@types:id"/> |*|
+        iddesc1=Connector Type |*|
+        text=Myx: Connector Type Signature LookupImplementation missing Name. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Connector Type Signature LookupImplementation missing Name. (<value-of select="@types:id"/>).
+      </assert>
+    </rule>
+  </pattern>
+
+  <!-- Note: this does not correctly handle subarchitectures, I think -->
+  <pattern id="test.80c3148f.1028548ab08.860591990d819f77.0.4-6"
+   name="xADL 2.0/Frameworks/Myx/Types/Connector Types/Valid Java Implementation"
+   description="Checks for a valid JavaImplementation on Connector Types.">
+    <rule context="instance:xArch/types:archTypes/types:connectorType">
+      <assert test="implementation:implementation">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Connector Type missing JavaImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Connector Type missing JavaImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="implementation:implementation/javaimplementation:mainClass">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Connector Type missing JavaImplementation main class. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Connector Type missing JavaImplementation main class. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="normalize-space(implementation:implementation/javaimplementation:mainClass) != ''">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Connector Type missing JavaImplementation main class value. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Connector Type missing JavaImplementation main class value. (<value-of select="@types:id"/>).
+      </assert>
+    </rule>
+  </pattern>
+  
+
+  <!-- Interface Types -->
+  
+  <pattern id="test.80c3148f.1028548ab08.860591990d819f77.0.4-1"
+   name="xADL 2.0/Frameworks/Myx/Types/ArchTypes/Interface Types/Valid Java Implementation"
+   description="Checks for a valid JavaImplementation on Interface Types.">
+    <rule context="instance:xArch/types:archTypes/types:interfaceType">
+      <assert test="implementation:implementation">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Interface Type missing JavaImplementation. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Interface Type missing JavaImplementation. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="implementation:implementation/javaimplementation:mainClass or implementation:implementation/javaimplementation:auxClass">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Interface Type missing JavaImplementation main or auxiliary class. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Interface Type missing JavaImplementation main or auxiliary class. (<value-of select="@types:id"/>).
+      </assert>
+      <assert test="normalize-space(implementation:implementation/javaimplementation:mainClass) != '' or normalize-space(implementation:implementation/javaimplementation:auxClass) != ''">        
+        id0=<value-of select="@types:id"/> |*|
+        iddesc0=Interface Type |*|
+        text=Myx: Interface Type missing JavaImplementation main or auxiliary class value. (<value-of select="@types:id"/>)|*|
+        detail=Myx: Interface Type missing JavaImplementation main or auxiliary class value. (<value-of select="@types:id"/>).
+      </assert>
+    </rule>
+  </pattern>  
+</schema>

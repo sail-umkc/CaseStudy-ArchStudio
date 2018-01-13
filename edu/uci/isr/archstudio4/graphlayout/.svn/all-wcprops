@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout
+END
+GraphLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/GraphLayout.java
+END
+GraphLayoutParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/GraphLayoutParameters.java
+END
+IGraphLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/IGraphLayout.java
+END
+GraphLayoutConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/GraphLayoutConstants.java
+END
+GraphLayoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/graphlayout/GraphLayoutException.java
+END

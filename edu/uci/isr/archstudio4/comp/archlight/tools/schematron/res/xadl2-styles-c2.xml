@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+
+<schema ns="http://www.isr.uci.edu/schematron/xadl2-styles-c2.xml"
+        xmlns="http://www.ascc.net/xml/schematron"        
+	fpi="+//IDN isr.uci.edu/SGML Schema//EN">
+
+  <title>xADL 2.0 C2 Style Tests Schema</title>
+  
+  <ns uri="http://www.w3.org/1999/xlink" prefix="xlink"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/instance.xsd" prefix="instance"/>
+  <ns uri="http://www.ics.uci.edu/pub/arch/xArch/types.xsd" prefix="types"/>
+
+  <pattern id="test.80c3148f.10285474143.ad9c42b14784eb5d.0.1" 
+   name="xADL 2.0/Styles/C2/Component -> Connector"
+   description="Checks for Components that do not link to Connectors.">
+    <rule context="instance:xArch/types:archStructure/types:link">
+	  <!-- note a -> b <==> !a v b -->
+      <let name="aid1" value="substring-after(./types:point[1]/instance:anchorOnInterface/@xlink:href, '#')"/>
+      <let name="aid2" value="substring-after(./types:point[2]/instance:anchorOnInterface/@xlink:href, '#')"/>
+      <assert 
+        test="
+           (not ($aid1 = /instance:xArch/types:archStructure/types:component/types:interface/@types:id)
+           or $aid2 = /instance:xArch/types:archStructure/types:connector/types:interface/@types:id)
+           and (not ($aid2 = /instance:xArch/types:archStructure/types:component/types:interface/@types:id)
+           or $aid1 = /instance:xArch/types:archStructure/types:connector/types:interface/@types:id)">
+        id=<value-of select="@types:id"/> |*|
+        iddesc=Link |*|
+        text=C2: Component links to something other than a Connector. (<value-of select="$aid1"/> to <value-of select="$aid2"/>)|*|
+        detail=C2: Component links to something other than a Connector. (<value-of select="$aid1"/> to <value-of select="$aid2"/>)
+      </assert>
+    </rule>
+  </pattern>
+  
+</schema>

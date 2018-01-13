@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util
+END
+AbstractRemoveLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractRemoveLogic.java
+END
+HintSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/HintSupport.java
+END
+ArrayPropertyCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/ArrayPropertyCoder.java
+END
+BasicSWTPropertyCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/BasicSWTPropertyCoder.java
+END
+BasicPropertyCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/BasicPropertyCoder.java
+END
+AbstractEditDescriptionContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDescriptionContextMenuFiller.java
+END
+ArchipelagoFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/ArchipelagoFinder.java
+END
+InterfaceLocationSyncUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/InterfaceLocationSyncUtils.java
+END
+PropertyDecodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/PropertyDecodeException.java
+END
+AbstractTypeDropLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractTypeDropLogic.java
+END
+FileDirtyLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/FileDirtyLogic.java
+END
+AbstractRemoveContextMenuFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractRemoveContextMenuFiller.java
+END
+AbstractEditGuardLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditGuardLogic.java
+END
+IPropertyCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/IPropertyCoder.java
+END
+EnumPropertyCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/EnumPropertyCoder.java
+END
+AbstractEditColorLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditColorLogic.java
+END
+AbstractEditDirectionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDirectionLogic.java
+END
+AbstractXadlSelectorLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractXadlSelectorLogic.java
+END
+AbstractEditDescriptionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDescriptionLogic.java
+END
+AbstractEditDescriptionCellModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/projects/!svn/ver/5974/archstudio4/tags/4.0.5/edu.uci.isr.archstudio4/src/edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDescriptionCellModifier.java
+END
